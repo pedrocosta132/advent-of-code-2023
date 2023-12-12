@@ -12,7 +12,7 @@ My solutions to Advent Of Code 2023 in JavaScript
 - Day 8
 - Day 9
 - Day 10
-- Day 11
+- Day 11 ✅
 - Day 12
 - Day 13
 - Day 14
